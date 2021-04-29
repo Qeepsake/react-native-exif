@@ -4,11 +4,11 @@
 
 ## Installation
 ```sh
-yarn add react-native-exif
+yarn add @qeepsake/react-native-image-exif
 ```
 or
 ```sh
-npm install react-native-exif --save
+npm install @qeepsake/react-native-image-exif
 ```
 
 ## Usage
