@@ -1,11 +1,11 @@
 {
-    "name": "react-native-exif",
-    "version": "0.4.3",
+    "name": "react-native-image-exif",
+    "version": "1.0.0",
     "description": "Exif reader for react-native support for ios and android",
     "main": "index.js",
     "author": {
-        "name": "Francisco Sanchez",
-        "email": "psm1984@gmail.com"
+        "name": "Luke Farrell",
+        "email": "luke@qeepsake.com"
     },
     "license": "MIT",
     "keywords": [
@@ -15,12 +15,12 @@
         "android",
         "exif"
     ],
-    "homepage": "https://github.com/francisco-sanchez-molina/react-native-exif",
+    "homepage": "https://github.com/Qeepsake/react-native-image-exif",
     "bugs": {
-        "url": "https://github.com/francisco-sanchez-molina/react-native-exif/issues"
+        "url": "https://github.com/Qeepsake/react-native-image-exif/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/francisco-sanchez-molina/react-native-exif.git"
+        "url": "git://github.com/Qeepsake/react-native-image-exif.git"
     }
 }
