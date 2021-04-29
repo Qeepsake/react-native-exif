@@ -5,12 +5,10 @@
 ## Installation
 ```sh
 yarn add react-native-exif
-react-native link
 ```
 or
 ```sh
 npm install react-native-exif --save
-react-native link
 ```
 
 ## Usage
@@ -60,8 +58,6 @@ Exif.getLatLong('/sdcard/tt.jpg')
     .catch(msg => console.warn('ERROR: ' + msg))
 ...
 ```
-
-Version 0.1.0 add react-native 0.40 support
 
 ## Contributors
 
