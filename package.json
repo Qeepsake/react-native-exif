@@ -1,5 +1,5 @@
 {
-    "name": "react-native-image-exif",
+    "name": "@qeepsake/react-native-image-exif",
     "version": "1.0.0",
     "description": "Exif reader for react-native support for ios and android",
     "main": "index.js",
